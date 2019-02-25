@@ -19,8 +19,19 @@
   color: white;
 }
 
+body{
+  background: #87ceff;
+}
+
 .App-link {
   color: #61dafb;
+}
+
+.title {
+    font-size: 60px;
+    color: white;
+    margin: 30px;
+    font-family: 'Calibri', sans-serif;
 }
 
 @keyframes App-logo-spin {
