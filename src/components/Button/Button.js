@@ -6,7 +6,7 @@ export default function Button(props) {
     : "pure-button";
   const style = {
     boxSizing: "border-box",
-    backgroundColor: props.main ? "#2c80b9" : "#e6e6e6",
+    backgroundColor: props.main ? "#002868" : "#e6e6e6",
     float: props.main ? "right" : "left",
     marginTop: "10px",
     width: "120px",
