@@ -52,7 +52,7 @@ class ImageScroller extends React.Component {
       width: "140px",
       height: "160px",
       marginLeft: "42px",
-      backgroundColor: "#00C853",
+      backgroundColor: "#BF0A30",
       position: "relative",
       zIndex: -2
     };
